@@ -58,15 +58,32 @@ public class GlavnaKlasa {
 		
 		
 		
+		// liste su dinamicki nizovi gde ne moramo da navodimo koliko imamo elemenata 
 		
 		
 		
 		
 		
+		// iterable, interfejs koji nasledjuje kolekciju je collection, interfejsi koji nasledjuju collection:
+		//1. list koristi ugradjenu klasu - array list - koja implementira interfejs i drugu ugr klassu,
+		// koja se zove linkedList
+		
+		//2. set - klasa koja impelemntira interfejst je hashSet
+		//3. queue
+		
+		// iterable ima metodu hasNext (); i metodu next ();
+		
+		
+		
+		// collection ima bezbroj metoda...
 		
 		
 		
 		
+		// svi ovi se nalaze u java.util package
+		
+		
+		// klasa koja impementira Iterable je Iterator
 		
 		
 		
